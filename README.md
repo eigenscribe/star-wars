@@ -4,9 +4,7 @@ Demonstration of retrocausality in the context of Star Wars
 ## ✨ ChatAid Stuff
 Project: Force-Enabled Podracing Predictor
 Concept
-Create a simulation where Anakin uses the Force to predict the outcome of a podrace.
-The program will simulate a podrace with random events (e.g., obstacles, speed boosts).
-Retrocausality is demonstrated by allowing the final race outcome to influence Anakin's earlier decisions during the race.
+
 Python Code Example
 import random
 
